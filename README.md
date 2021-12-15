@@ -1,4 +1,4 @@
-# Welcome! to Bornfire
+# Welcome to Bornfire!
 
 ## Welcome to MyAPI
 

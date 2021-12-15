@@ -2,7 +2,9 @@
 
 ## Welcome to MyAPI
 
-welcome to Bornfire API Docs
+{% hint style="info" %}
+테스트 입니다.
+{% endhint %}
 
 ## Want to jump right in?
 
